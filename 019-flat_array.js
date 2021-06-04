@@ -1,6 +1,6 @@
 /*
 Day-by-Day-Challenge
-Exercice 018 - "own array functions"
+Exercice 019 - "flat_arrays"
 
 Task
 ------------
