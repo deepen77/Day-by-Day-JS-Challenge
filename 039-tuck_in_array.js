@@ -27,7 +27,7 @@ function tuckIn(arr1, arr2) {
 }
 
 function verify(input, goal) {
-  if (input === goal) {
+  if (JSON.stringify(input) === JSON.stringify(goal)) {
     console.log("Congratulation!");
   } else {
     console.log(`Sorry, expected - ${goal}, received - ${input}`);
