@@ -14,7 +14,11 @@ Task
 */
 
 function marathonDistance(d) {
-  return d.reduce((acc, cur) => acc + Math.abs(cur), 0) == 25;
+  if(d===25) {
+  return true
+  }else {
+    return false
+  }
 }
 
 function verify(input, goal) {
@@ -25,7 +29,6 @@ function verify(input, goal) {
     console.log(`Sorry, expected - ${goal}, received - ${input}`);
   }
 }
-
 
 
 verify(marathonDistance(10), false)
