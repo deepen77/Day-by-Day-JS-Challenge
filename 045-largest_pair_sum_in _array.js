@@ -21,6 +21,7 @@ function largestPairSum(numbers) {
 }
 
 
+
 function verify(input, goal) {
   if (input === goal) {
     console.log("Congratulation!");
