@@ -1,6 +1,6 @@
 /*
 Day-by-Day-Challenge
-Exercice 045 - "Largest pair sum in array"
+Exercice 045 - "Calculate BMI"
 
 Task
 ------------
