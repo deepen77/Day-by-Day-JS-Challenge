@@ -1,6 +1,6 @@
 /*
 Day-by-Day-Challenge
-Exercice 045 - "Calculate BMI"
+Exercice 046 - "Calculate BMI"
 
 Task
 ------------

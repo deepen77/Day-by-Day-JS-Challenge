@@ -1,6 +1,6 @@
 /*
 Day-by-Day-Challenge
-Exercice 048 - "Prompt Name Surname Age"
+Exercice 047 - "Prompt Name Surname Age"
 
 Task
 ------------

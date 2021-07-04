@@ -1,6 +1,6 @@
 /*
 Day-by-Day-Challenge
-Exercice 049 - "Prompt Calculator"
+Exercice 048 - "Prompt Calculator"
 
 Task
 ------------
