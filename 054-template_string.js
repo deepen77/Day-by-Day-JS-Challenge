@@ -1,6 +1,6 @@
 /*
 Day-by-Day-Challenge
-Exercice 053 - "Template string"
+Exercice 054 - "Template string"
 
 Task
 ------------
