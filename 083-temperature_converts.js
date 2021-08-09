@@ -1,6 +1,4 @@
 /*
-Day-by-Day-Challenge
-Exercice 081 - "Friday the 13th"
 
 Day-by-Day-Challenge
 Exercice 083 - "Temperature converts"

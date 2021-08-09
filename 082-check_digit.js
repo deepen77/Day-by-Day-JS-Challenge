@@ -1,10 +1,5 @@
 /*
 Day-by-Day-Challenge
-Exercice 081 - "Friday the 13th"
-
-Task
-------------/*
-Day-by-Day-Challenge
 Exercice 082 - "Check digit"
 
 Task
